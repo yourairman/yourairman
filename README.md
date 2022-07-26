@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **javascript**
 
-- 💬 Ask me about **C#**
+- 💬 Ask me about **.net Technologies and C#**
 
 - 📫 How to reach me **kadirgur70@gmail.com**
 
