@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://kadirgur.com/"> Kadir GUR </a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://kadirgur.com/"> Kadir GUR </a>and <i>Mechatronics Software Engineer</i></h1>
 <h3 align="center">A passionate .net C# developer</h3>
 
 
