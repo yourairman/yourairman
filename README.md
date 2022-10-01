@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **.NET Core and C#**
 
-- 💬 Ask me about **.net Technologies and C#**
+- 💬 Ask me about **.net, C#, PostgreSQL, MSSQL**
 
 - 📫 How to reach me **kadirgur70@gmail.com**
 
