@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **.net, C#, js**
 
-- 🌱 I’m currently learning **.NET Core and C#**
+- 🌱 I’m currently learning **.NET Core, C# and SQL**
 
 - 💬 Ask me about **.net, C#, PostgreSQL, MSSQL**
 
