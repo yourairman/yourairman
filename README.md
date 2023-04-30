@@ -7,9 +7,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yourairman" alt="yourairman" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
 
-- 🔭 I’m currently working on **.net, C#, js**
+- 🔭 I’m currently working on **.NET Core, C#, SQL**
 
-- 🌱 I’m currently learning **.NET Core, C# and SQL**
+- 🌱 I’m currently learning **LabVIEW**
 
 - 💬 Ask me about **.net, C#, PostgreSQL, MSSQL**
 
