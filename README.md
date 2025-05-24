@@ -9,7 +9,8 @@
 
 - 🔭 I’m currently working on **.NET Core, C#, SQL**
 
-- 🌱 I’m currently learning **LabVIEW and Java**
+- 🌱 I’m currently learning **LabVIEW and PLC ![image](https://github.com/user-attachments/assets/751b7a6a-ab18-4094-939e-7db1027bc266)
+**
 
 - 💬 Ask me about **.net, C#, PostgreSQL, MSSQL**
 
